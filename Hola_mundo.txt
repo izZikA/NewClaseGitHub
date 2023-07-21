@@ -6,5 +6,9 @@ Explicacion
 Nuevas palabras
 Universidad
 Hola escribo esto sobre la rama lab
+<<<<<<< HEAD
 Se agrega por medio de vim
 Ultima clase
+=======
+Modificado en linea
+>>>>>>> ef61ffc796f26e634aaca530644897a19a2b1b6e
