@@ -6,3 +6,5 @@ Explicacion
 Nuevas palabras
 Universidad
 Hola escribo esto sobre la rama lab
+Se agrega por medio de vim
+Ultima clase
